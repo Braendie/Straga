@@ -1,3 +1,3 @@
-# Game3
+# StraGa
 
 Developed with Unreal Engine 5
